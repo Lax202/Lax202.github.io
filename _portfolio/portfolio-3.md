@@ -4,4 +4,4 @@ excerpt: "Pen and ink, gouache collage on paper. 2021<br/><img src='/images/Mena
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A portait incorporating elements from manga comics, specifically [JoJo's Bizarre Adventure](https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure). 

@@ -1,7 +1,7 @@
 ---
-title: "Inner Peace"
+title: "Balance in an Unbalanced World"
 excerpt: "Pen and ink, gouache collage on paper. 2021<br/><img src='/images/mann mela instagram.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+A self-portrait published in the online exhibition [Hope Through Action Festival by Mann Mela](https://www.mannmela.in/festival-art-exhibition/balance-in-an-unbalnaced-world). 
