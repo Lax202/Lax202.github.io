@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student at the [University of Bielefeld](https://www.uni-bielefeld.de), Germany. I am co-supervised by [Prof. Martin Wahl](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=397650776&lang=EN) (University of Bielefeld) and [Prof. Bernd Sturmfels](https://www.mpg.de/11383446/mathematik-in-den-naturwissenschaften-sturmfels) ([Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de)).
+I am a PhD Student at the [University of Bielefeld](https://www.uni-bielefeld.de), Germany. I am co-supervised by [Prof. Martin Wahl](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=397650776&lang=EN) (University of Bielefeld) and [Prof. Bernd Sturmfels](https://math.berkeley.edu/~bernd/) ([Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de)).
 
 Academic Interests
 ===
