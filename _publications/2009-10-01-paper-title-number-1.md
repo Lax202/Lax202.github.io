@@ -1,6 +1,6 @@
 ---
 title: "Invariant Theory"
-authors: "Wolfram Decker, Lakshmi Ramesh, Johannes Schmidt"
+#authors: "Wolfram Decker, Lakshmi Ramesh, Johannes Schmidt"
 collection: publications
 category: manuscripts
 permalink: 
