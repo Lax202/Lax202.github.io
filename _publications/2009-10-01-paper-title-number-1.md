@@ -2,7 +2,7 @@
 title: "Invariant Theory"
 authors: "Wolfram Decker, Lakshmi Ramesh, Johannes Schmidt"
 collection: publications
-category: book chapters
+category: manuscripts
 permalink: 
 excerpt: 'A book chapter in the book "The Computer Algebra System OSCAR: Algorithms and Examples", to be published by Springer later this year.'
 date: 09-2024

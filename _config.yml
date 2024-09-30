@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Lakshmi's Homepage'"
+title                    : "Lakshmi's Homepage"
 title_separator          : "-"
 name                     : &name "Lakshmi Ramesh"
 description              : &description "PhD student"
