@@ -5,7 +5,7 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: 'Pre-print submitted to Le Mathematiche, for a special volume on Positive Geometry to appear in 2025.'
-date: 2025
+date: 2025-05-01
 venue: Le Mathematiche
 slidesurl: #url
 paperurl: https://arxiv.org/abs/2412.12514
