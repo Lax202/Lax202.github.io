@@ -5,8 +5,8 @@ collection: publications
 category: manuscripts
 permalink: 
 excerpt: 'Pre-print submitted to Le Mathematiche, for a special volume on Positive Geometry to appear in 2025.'
-date: 
-venue: 
+date: 2025
+venue: Le Mathematiche
 slidesurl: #url
 paperurl: https://arxiv.org/abs/2412.12514
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
