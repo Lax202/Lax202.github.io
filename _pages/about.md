@@ -15,7 +15,9 @@ I am interested in applications of algebraic geometry, differential geometry and
 
 Activities
 ===
-I organise a reading group between University of Bielefeld and University of Osnabrueck that meets once a week. We are reading "Metric Algebraic Geometry" by Paul Breiding, Kathlén Kohn, and Bernd Sturmfels. If you would like to join online, feel free to write to me.
+I organise a reading group between Universität Bielefeld and Universität Osnabrück that meets once a week. We are reading "Metric Algebraic Geometry" by Paul Breiding, Kathlén Kohn, and Bernd Sturmfels. If you would like to join online, feel free to write to me.
+
+I will attend the [AlgStat 2025](https://sites.google.com/view/algstat2025/home?authuser=0) conference in TU Munich from 24-28 March, and present a poster on the 24th of March from 15:00-16:30. 
 
 Past Experience
 ===
