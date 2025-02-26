@@ -11,4 +11,4 @@ author_profile: true
 Upcoming Activities
 ======
 * Mar 19-21 2025: [Nonlinear Algebra Seminar](https://www.mis.mpg.de/de/events/event/convex-compact-mle-sets-in-high-dimensional-space){:target="_blank"}, MPI MiS Leipzig
-* Mar 24-28 2025: [AlgStat 2025](https://sites.google.com/view/algstat2025/){:target="_blank"}, TU München
+* Mar 24-28 2025: [AlgStat 2025](https://sites.google.com/view/algstat2025/program){:target="_blank"}, TU München
