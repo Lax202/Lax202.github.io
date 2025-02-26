@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /talks/
+permalink: /activities/
 author_profile: true
 # redirect_from:
 #  - /resume
