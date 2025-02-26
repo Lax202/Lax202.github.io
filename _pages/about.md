@@ -13,12 +13,6 @@ Academic Interests
 ===
 I am interested in applications of algebraic geometry, differential geometry and combinatorics in statistics. As data encountered in applications often take the form of low dimensional structures such as manifolds or algebraic varieties in high dimensional ambient spaces, these are the structures I am interested in. I am specifically interested in intersections of high dimensional convex bodies, and in Grassmanians. My long term goal is to unify statistics and algebraic statistics. 
 
-Activities
-===
-I organise a reading group between Universität Bielefeld and Universität Osnabrück that meets once a week. We are reading "Metric Algebraic Geometry" by Paul Breiding, Kathlén Kohn, and Bernd Sturmfels. If you would like to join online, feel free to write to me.
-
-I will attend the [AlgStat 2025](https://sites.google.com/view/algstat2025/home?authuser=0) conference in TU Munich from 24-28 March, and present a poster on the 24th of March from 15:00-16:30. 
-
 Past Experience
 ===
 I was a Master's student at [RPTU Kaiserslautern](https://rptu.de), Germany from 2021-2024, specializing in Computer Algebra and Algebraic Geometry. I completed my master's thesis "Free Resolutions over the Exterior Algebra with Parallel Structures" with the guidance of [Dr. Janko Boehm](https://agag-jboehm.math.rptu.de/~boehm/).  
