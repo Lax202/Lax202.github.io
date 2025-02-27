@@ -14,4 +14,4 @@ Preprints
 
 Publications
 ======
-* [Invariant Theory](https://link.springer.com/chapter/10.1007/978-3-031-62127-7_12){:target="_blank"}, with [Wolfram Decker](https://math.rptu.de/ags/agag/personen/leitung/decker){:target="_blank"} and [Johannes Schmidt](https://joschmitt.eu){:target="_blank"},  In: Decker, W., Eder, C., Fieker, C., Horn, M., Joswig, M. (eds) The Computer Algebra System OSCAR. Algorithms and Computation in Mathematics, vol 32. Springer
+* [Invariant Theory](https://link.springer.com/chapter/10.1007/978-3-031-62127-7_12){:target="_blank"}, with [Wolfram Decker](https://math.rptu.de/ags/agag/personen/leitung/decker){:target="_blank"} and [Johannes Schmidt](https://joschmitt.eu){:target="_blank"},  In: The Computer Algebra System OSCAR: Algorithms and Examples, 297--331, Springer, January 2025
