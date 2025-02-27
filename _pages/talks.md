@@ -15,4 +15,4 @@ Upcoming Activities
 
 Past Activities
 ======
-* Nov 2024 - Feb 2025: Organiser of the reading group on "Metric Algebraic Geometry", Universit\"at Bielefeld - Universit\"at Osnabr\"uck
+* Nov 2024 - Feb 2025: Organiser of the reading group on "Metric Algebraic Geometry", Universität Bielefeld - Universität Osnabrück
