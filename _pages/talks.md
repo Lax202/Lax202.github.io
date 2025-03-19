@@ -10,6 +10,7 @@ author_profile: true
 
 Upcoming Activities
 ======
+* Mar 20 2025: [Combinatorial Synergies East](https://www.mis.mpg.de/events/series/combinatorial-synergies-east), MPI MiS Leipzig
 * Mar 24-28 2025: [AlgStat 2025](https://sites.google.com/view/algstat2025/program){:target="_blank"}, TU München
 * Aug 25-29 2025: [Cohomology Theories for Automorphic Forms and Enumerative Algebra](https://www.mfo.de/occasion/2535a/www_view){:target="_blank"}, Mathematisches Forschungsinstitut Oberwolfach
 
