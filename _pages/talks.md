@@ -8,6 +8,10 @@ author_profile: true
 
 {% include base_path %}
 
+Current Activities
+======
+* [I teach **Bharatanatyam** in Universität Bielefeld.](https://hsp.sport.uni-bielefeld.de/angebote/Sommersemester_2025/_Indischer_Tanz.html) Feel free to e-mail me to find out more.
+
 Upcoming Activities
 ======
 * May 14 2025: [Oberseminar Applied Algebra and Discrete Mathematics](https://www.mathematik.uni-osnabrueck.de/aktuell/oberseminare/algebra/ss_2025.html), Universität Osnabrück
