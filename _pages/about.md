@@ -11,7 +11,7 @@ I am a PhD Student at the [University of Bielefeld](https://www.uni-bielefeld.de
 
 Academic Interests
 ===
-I am interested in applications of algebraic geometry, differential geometry and combinatorics in statistics. As data encountered in applications often take the form of low dimensional structures such as manifolds or algebraic varieties in high dimensional ambient spaces, these are the structures I am interested in. I am specifically interested in intersections of high dimensional convex bodies, and in Grassmanians. My long term goal is to unify statistics and algebraic statistics. 
+I am interested in applications of algebraic geometry, algebraic analysis and combinatorics in statistics. As data encountered in applications often take the form of low dimensional structures such as manifolds or algebraic varieties in high dimensional ambient spaces, these are the structures I am interested in. I am specifically interested in intersections of high dimensional convex bodies. My long term goal is to unify statistics and algebraic statistics. 
 
 Past Experience
 ===
