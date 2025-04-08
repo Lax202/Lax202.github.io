@@ -7,11 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student at the [University of Bielefeld](https://www.uni-bielefeld.de){:target="_blank"}, Germany. I am co-supervised by [Prof. Martin Wahl](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=397650776&lang=EN){:target="_blank"} (University of Bielefeld) and [Prof. Bernd Sturmfels](https://math.berkeley.edu/~bernd/){:target="_blank"} ([Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de)){:target="_blank"}.
+I am a PhD Student at the [University of Bielefeld](https://www.uni-bielefeld.de){:target="_blank"}, Germany. I am co-supervised by [Prof. Martin Wahl](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=397650776&lang=EN){:target="_blank"} (University of Bielefeld) and [Prof. Bernd Sturmfels](https://math.berkeley.edu/~bernd/){:target="_blank"} ([Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de){:target="_blank"}).
 
 Academic Interests
 ===
 I am interested in applications of algebraic geometry, algebraic analysis and combinatorics in statistics. As data encountered in applications often take the form of low dimensional structures such as manifolds or algebraic varieties in high dimensional ambient spaces, these are the structures I am interested in. I am specifically interested in intersections of high dimensional convex bodies. My long term goal is to unify statistics and algebraic statistics. 
+
+Current Activities
+======
+* I am organising a reading group on Intersection Theory. We are reading _3264 & All That_ by Eisenbud and Harris. Here is the upcoming schedule:
+    * 16 April 10:00 - Crash Course on Algebraic Geometry, Introduction to Chow Rings (Presented by [Alec Schmutz](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=506753954))
+    * 23 April 10:00 - Computing Chow Rings, First Examples (Presented by [Alec Schmutz](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=506753954))
+    * 30 April 10:00 - Grassmannians (Presented by Lakshmi)
+    * 7 May 10:00 - Grassmannians (Presented by Lakshmi)
+  We also meet on Fridays at 10:00 to discuss Exercises. Feel free to email me if you are interested. 
+* [I teach **Bharatanatyam** at Universität Bielefeld.](https://hsp.sport.uni-bielefeld.de/angebote/Sommersemester_2025/_Indischer_Tanz.html){:target="_blank"} Feel free to e-mail me to find out more.
 
 Past Experience
 ===
