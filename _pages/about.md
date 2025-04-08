@@ -21,7 +21,7 @@ Current Activities
     * 30 April 10:00 - Grassmannians (Presented by Lakshmi)
     * 7 May 10:00 - Grassmannians (Presented by Lakshmi)
   We also meet on Fridays at 10:00 to discuss Exercises. Feel free to email me if you are interested. 
-* [I teach **Bharatanatyam** at Universität Bielefeld.](https://hsp.sport.uni-bielefeld.de/angebote/Sommersemester_2025/_Indischer_Tanz.html){:target="_blank"} Feel free to email me to find out more.
+* [I teach **Bharatanatyam** at Universität Bielefeld.](https://hsp.sport.uni-bielefeld.de/angebote/aktueller_zeitraum/_Indischer_Tanz.html){:target="_blank"} Feel free to email me to find out more.
 
 Past Experience
 ===
