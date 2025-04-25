@@ -15,12 +15,7 @@ I am interested in applications of algebraic geometry, algebraic analysis and co
 
 Current Activities
 ======
-* I am organising a reading group on Intersection Theory. We are reading _3264 & All That_ by Eisenbud and Harris. Here is the upcoming schedule:
-    * 16 April 10:00 - Crash Course on Algebraic Geometry, Introduction to Chow Rings (Presented by [Alec Schmutz](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=506753954))
-    * 23 April 10:00 - Computing Chow Rings, First Examples (Presented by [Alec Schmutz](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=506753954))
-    * 30 April 10:00 - Grassmannians (Presented by Lakshmi)
-    * 7 May 10:00 - Grassmannians (Presented by Lakshmi)
-  We also meet on Fridays at 10:00 to discuss Exercises. Feel free to email me if you are interested. 
+* I am organising a reading group on Intersection Theory. We are reading _3264 & All That_ by Eisenbud and Harris. We meet on Wednesdays and Fridays at 10:00 AM. Feel free to email me if you are interested. 
 * [I teach **Bharatanatyam** at Universität Bielefeld.](https://hsp.sport.uni-bielefeld.de/angebote/aktueller_zeitraum/_Indischer_Tanz.html){:target="_blank"} Feel free to email me to find out more.
 
 Past Experience
