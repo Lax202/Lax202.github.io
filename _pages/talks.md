@@ -10,7 +10,7 @@ author_profile: true
 
 Upcoming Activities
 ======
-* May 14 2025: [Oberseminar Applied Algebra and Discrete Mathematics](https://www.mathematik.uni-osnabrueck.de/aktuell/oberseminare/algebra/ss_2025.html){:target="_blank"}, Universität Osnabrück
+* June 18 2025: [Oberseminar Applied Algebra and Discrete Mathematics](https://www.mathematik.uni-osnabrueck.de/aktuell/oberseminare/algebra/ss_2025.html){:target="_blank"}, Universität Osnabrück
 * June 23 - July 4 2025: [SLMath Summer School: New perspectives on discriminants and their applications](https://www.mis.mpg.de/de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications){:target="_blank"}
 * July 17 2025: [TRR 358 Bielefeld Graduate Seminar](https://trr358.math.uni-bielefeld.de/recurringevents/view/96){:target="_blank"}, Universität Bielefeld
 * Aug 25-29 2025: [Cohomology Theories for Automorphic Forms and Enumerative Algebra](https://www.mfo.de/occasion/2535a/www_view){:target="_blank"}, Mathematisches Forschungsinstitut Oberwolfach
