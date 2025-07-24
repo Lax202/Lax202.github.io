@@ -15,7 +15,6 @@ I am interested in applications of algebraic geometry, algebraic analysis and co
 
 Current Activities
 ======
-* I am organising a reading group on Intersection Theory. We are reading _3264 & All That_ by Eisenbud and Harris. We meet on Wednesdays and Fridays at 10:00 AM. Feel free to email me if you are interested. 
 * [I teach **Bharatanatyam** at Universität Bielefeld.](https://hsp.sport.uni-bielefeld.de/angebote/aktueller_zeitraum/_Indischer_Tanz.html){:target="_blank"} Feel free to email me to find out more.
 
 Past Experience
