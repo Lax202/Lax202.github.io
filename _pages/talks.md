@@ -21,7 +21,7 @@ Contributed Talks
 
 Past Activities
 ======
-* April - July 2025: Organised reading group on "Metric Algebraic Geometry", Universität Bielefeld 
+* April - July 2025: Organised reading group on Intersection Theory, Universität Bielefeld 
 * June 23 - July 4 2025: [SLMath Summer School: New perspectives on discriminants and their applications](https://www.mis.mpg.de/de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications){:target="_blank"}
 * Mar 24-28 2025: [AlgStat 2025](https://sites.google.com/view/algstat2025/program){:target="_blank"}, TU München
 * Mar 20 2025: [Combinatorial Synergies East](https://www.mis.mpg.de/events/series/combinatorial-synergies-east){:target="_blank"}, MPI MiS Leipzig
