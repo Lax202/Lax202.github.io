@@ -10,7 +10,8 @@ author_profile: true
 
 Upcoming Activities
 ======
-*  25-29 Aug 2025: [Cohomology Theories for Automorphic Forms and Enumerative Algebra](https://www.mfo.de/occasion/2535a/www_view){:target="_blank"}, Mathematisches Forschungsinstitut Oberwolfach
+* 25-29 Aug 2025: [Cohomology Theories for Automorphic Forms and Enumerative Algebra](https://www.mfo.de/occasion/2535a/www_view){:target="_blank"}, Mathematisches Forschungsinstitut Oberwolfach
+* 3-5 Sept 2025: [Priority Program Annual Conference](https://www.combinatorial-synergies.de/activities/2025-09_AnnualConference/){:target="blank"}, Hannover
 
 Contributed Talks
 ======
