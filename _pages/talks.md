@@ -10,11 +10,11 @@ author_profile: true
 
 Upcoming Activities
 ======
-* 25-29 Aug 2025: [Cohomology Theories for Automorphic Forms and Enumerative Algebra](https://www.mfo.de/occasion/2535a/www_view){:target="_blank"}, Mathematisches Forschungsinstitut Oberwolfach
-* 3-5 Sept 2025: [Priority Program Annual Conference](https://www.combinatorial-synergies.de/activities/2025-09_AnnualConference/){:target="blank"}, Hannover
+* January - March 2026: Visiting researcher at [Max-Planck-Institute for Mathematics in the Sciences, Leipzig](https://www.mis.mpg.de)
 
 Contributed Talks
 ======
+* 25-29 Aug 2025: [Cohomology Theories for Automorphic Forms and Enumerative Algebra](https://www.mfo.de/occasion/2535a/www_view){:target="_blank"}, Mathematisches Forschungsinstitut Oberwolfach
 * 17 July 2025: [TRR 358 Bielefeld Graduate Seminar](https://trr358.math.uni-bielefeld.de/recurringevents/view/96){:target="_blank"}, Universität Bielefeld
 * 18 June 2025: [Oberseminar Applied Algebra and Discrete Mathematics](https://www.mathematik.uni-osnabrueck.de/aktuell/oberseminare/algebra/ss_2025.html){:target="_blank"}, Universität Osnabrück
 * 20 Mar 2025: [Combinatorial Synergies East](https://www.mis.mpg.de/events/series/combinatorial-synergies-east){:target="_blank"}, MPI MiS Leipzig
