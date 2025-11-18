@@ -10,11 +10,11 @@ author_profile: true
 
 Upcoming Activities
 ======
-* 14 Nov 2025: [KOLKOM 2025](https://trr358.math.uni-bielefeld.de/workshops/view/551), Universität Bielefeld
 * January - March 2026: Visiting researcher at [Max-Planck-Institute for Mathematics in the Sciences, Leipzig](https://www.mis.mpg.de)
 
 Contributed Talks
 ======
+* 14 Nov 2025: [KOLKOM 2025](https://trr358.math.uni-bielefeld.de/workshops/view/551), Universität Bielefeld
 * 30 Oct 2025: [Oberseminar Probability Theory and Mathematical Statistics](https://www.uni-bielefeld.de/fakultaeten/mathematik/forschung/talks/),  Universität Bielefeld
 * 25-29 Aug 2025: [Cohomology Theories for Automorphic Forms and Enumerative Algebra](https://www.mfo.de/occasion/2535a/www_view){:target="_blank"}, Mathematisches Forschungsinstitut Oberwolfach
 * 17 July 2025: [TRR 358 Bielefeld Graduate Seminar](https://trr358.math.uni-bielefeld.de/recurringevents/view/96){:target="_blank"}, Universität Bielefeld
