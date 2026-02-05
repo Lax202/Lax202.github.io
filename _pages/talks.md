@@ -11,6 +11,7 @@ author_profile: true
 Upcoming Activities
 ======
 * January - March 2026: Visiting researcher at [Max-Planck-Institute for Mathematics in the Sciences, Leipzig](https://www.mis.mpg.de)
+* 24 Feb 2026: [Nonlinear Algebra Seminar](https://www.mis.mpg.de/events/event/exact-volumes-of-semi-algebraic-convex-bodies){:target="_blank"}, MPI MiS Leipzig
 
 Contributed Talks
 ======

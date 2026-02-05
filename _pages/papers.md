@@ -8,6 +8,10 @@ author_profile: true
 
 {% include base_path %}
 
+Preprints
+======
+* Exact Volumes of Semi-Algebraic Convex Bodies, with [Nicolas Weiss](https://nicolas-alexander-weiss.github.io){:target="_blank"}. [ArXiv](https://arxiv.org/abs/2602.04707).
+
 Publications
 ======
 * [Points on Rational Normal Curves and the ABCT Variety](https://lematematiche.dmi.unict.it/index.php/lematematiche/article/view/2746){:target="_blank"}, with [Daniele Agostini](https://www.math.uni-tuebingen.de/de/forschung/kombinatorische-algebraische-geometrie/personen/daniele-agostini){:target="_blank"} and [Dawei Shen](https://sites.google.com/umich.edu/daweishen/){:target="_blank"}, Special volume on Positive Geometry. Le Matematiche, vol. 80 (2025), 103-122. [ArXiv](https://arxiv.org/abs/2412.12514).
