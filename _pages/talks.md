@@ -10,10 +10,11 @@ author_profile: true
 
 Upcoming Activities
 ======
-* 15 April 2026: [Workshop Metric Algebraic Geometry: Starting Local](https://www.mis.mpg.de/de/events/series/workshop-metric-algebraic-geometry-starting-local), MPI MIS Leipzig
+* 7 May 2026: [Young Researchers Conference on Combinatorial Synergies](https://mathconf.eu/yrccs-2026/talks.html), FU Berlin
 
 Contributed Talks
 ======
+* 15 April 2026: [Workshop Metric Algebraic Geometry: Starting Local](https://www.mis.mpg.de/de/events/series/workshop-metric-algebraic-geometry-starting-local), MPI MIS Leipzig
 * 24 Feb 2026: [Nonlinear Algebra Seminar](https://www.mis.mpg.de/events/event/exact-volumes-of-semi-algebraic-convex-bodies){:target="_blank"}, MPI MiS Leipzig
 * 14 Nov 2025: [KOLKOM 2025](https://trr358.math.uni-bielefeld.de/workshops/view/551), Universität Bielefeld
 * 30 Oct 2025: [Oberseminar Probability Theory and Mathematical Statistics](https://www.uni-bielefeld.de/fakultaeten/mathematik/forschung/talks/),  Universität Bielefeld
