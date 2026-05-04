@@ -10,7 +10,7 @@ author_profile: true
 
 Preprints
 ======
-* Exact Volumes of Semi-Algebraic Convex Bodies, with [Nicolas Weiss](https://nicolas-alexander-weiss.github.io){:target="_blank"}, 2026. [ArXiv](https://arxiv.org/abs/2602.04707).
+* Exact Volumes of Semi-Algebraic Convex Bodies, with [Nicolas Weiss](https://nicolas-alexander-weiss.github.io){:target="_blank"}, 2026. Accepted to [ISSAC '26](https://www.issac-conference.org/2026/). [ArXiv](https://arxiv.org/abs/2602.04707).
 
 Publications
 ======
