@@ -8,9 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-#Preprints
-#======
-
 Publications
 ======
 * [Exact Volumes of Semi-Algebraic Convex Bodies](https://dl.acm.org/doi/10.1145/3815436.3815478), with [Nicolas Weiss](https://nicolas-alexander-weiss.github.io){:target="_blank"}, ISSAC '26: Proceedings of the 2026 International Symposium on Symbolic and Algebraic Computation. [ArXiv](https://arxiv.org/abs/2602.04707).
