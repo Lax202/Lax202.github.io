@@ -10,10 +10,13 @@ author_profile: true
 
 Upcoming Activities
 ======
-* 7 May 2026: [Young Researchers Conference on Combinatorial Synergies](https://mathconf.eu/yrccs-2026/talks.html), FU Berlin
+* 10-11 Sept 2026: [Westfälische Stochastic Tage 2026](https://math.uni-paderborn.de/ag/arbeitsgruppe-wahrscheinlichkeitstheorie/forschung/konferenzen/westfaelische-stochastiktage-2026), Universität Paderborn
+* 14-16 Sept 2026: [Annual Conference of Combinatorial Synergies](https://www.combinatorial-synergies.de/activities/2026-09_AnnualConference/), Physikalischer Verein Frankfurt
 
 Contributed Talks
 ======
+* 1 Sept 2026: [Algebraic Statistics - European Women in Mathematics](https://sites.google.com/view/ewm2026alg-stat/startseite), University of Warwick
+* 7 May 2026: [Young Researchers Conference on Combinatorial Synergies](https://mathconf.eu/yrccs-2026/talks.html), FU Berlin
 * 15 April 2026: [Workshop Metric Algebraic Geometry: Starting Local](https://www.mis.mpg.de/de/events/series/workshop-metric-algebraic-geometry-starting-local), MPI MIS Leipzig
 * 24 Feb 2026: [Nonlinear Algebra Seminar](https://www.mis.mpg.de/events/event/exact-volumes-of-semi-algebraic-convex-bodies){:target="_blank"}, MPI MiS Leipzig
 * 14 Nov 2025: [KOLKOM 2025](https://trr358.math.uni-bielefeld.de/workshops/view/551), Universität Bielefeld
