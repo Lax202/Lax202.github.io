@@ -8,13 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-Upcoming Activities
-======
-* 10-11 Sept 2026: [Westfälische Stochastic Tage 2026](https://math.uni-paderborn.de/ag/arbeitsgruppe-wahrscheinlichkeitstheorie/forschung/konferenzen/westfaelische-stochastiktage-2026), Universität Paderborn
-* 14-16 Sept 2026: [Annual Conference of Combinatorial Synergies](https://www.combinatorial-synergies.de/activities/2026-09_AnnualConference/), Physikalischer Verein Frankfurt
-
 Contributed Talks
 ======
+* 10-11 Sept 2026: [Westfälische Stochastic Tage 2026](https://math.uni-paderborn.de/ag/arbeitsgruppe-wahrscheinlichkeitstheorie/forschung/konferenzen/westfaelische-stochastiktage-2026), Universität Paderborn
 * 1 Sept 2026: [Algebraic Statistics - European Women in Mathematics](https://sites.google.com/view/ewm2026alg-stat/startseite), University of Warwick
 * 7 May 2026: [Young Researchers Conference on Combinatorial Synergies](https://mathconf.eu/yrccs-2026/talks.html), FU Berlin
 * 15 April 2026: [Workshop Metric Algebraic Geometry: Starting Local](https://www.mis.mpg.de/de/events/series/workshop-metric-algebraic-geometry-starting-local), MPI MIS Leipzig
@@ -29,8 +25,8 @@ Contributed Talks
 
 Past Activities
 ======
+* 14-16 Sept 2026: [Annual Conference of Combinatorial Synergies](https://www.combinatorial-synergies.de/activities/2026-09_AnnualConference/), Physikalischer Verein Frankfurt
 * April - July 2025: Organised reading group on Intersection Theory, Universität Bielefeld 
 * 23 June - 4 July 2025: [SLMath Summer School: New perspectives on discriminants and their applications](https://www.mis.mpg.de/de/events/series/slmath-summer-school-new-perspectives-on-discriminants-and-their-applications){:target="_blank"}
 * 24-28 Mar 2025: [AlgStat 2025](https://sites.google.com/view/algstat2025/program){:target="_blank"}, TU München
-* 20 Mar 2025: [Combinatorial Synergies East](https://www.mis.mpg.de/events/series/combinatorial-synergies-east){:target="_blank"}, MPI MiS Leipzig
 * Nov 2024 - Feb 2025: Organised reading group on "Metric Algebraic Geometry", Universität Bielefeld - Universität Osnabrück
