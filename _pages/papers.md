@@ -8,10 +8,14 @@ author_profile: true
 
 {% include base_path %}
 
+Preprints
+======
+* [Schreyer Resolutions over the Exterior Algebra](https://arxiv.org/abs/2609.37610){:target="_blank"}, with [Janko Boehm](https://agag-jboehm.math.rptu.de/~boehm/){:target="_blank"}, 2026.
+
 Publications
 ======
-* [Exact Volumes of Semi-Algebraic Convex Bodies](https://dl.acm.org/doi/10.1145/3815436.3815478), with [Nicolas Weiss](https://nicolas-alexander-weiss.github.io){:target="_blank"}, ISSAC '26: Proceedings of the 2026 International Symposium on Symbolic and Algebraic Computation. [ArXiv](https://arxiv.org/abs/2602.04707).
+* [Exact Volumes of Semi-Algebraic Convex Bodies](https://dl.acm.org/doi/10.1145/3815436.3815478){:target="_blank"}, with [Nicolas Weiss](https://nicolas-alexander-weiss.github.io){:target="_blank"}, ISSAC '26: Proceedings of the 2026 International Symposium on Symbolic and Algebraic Computation. [ArXiv](https://arxiv.org/abs/2602.04707){:target="_blank"}.
 
-* [Points on Rational Normal Curves and the ABCT Variety](https://lematematiche.dmi.unict.it/index.php/lematematiche/article/view/2746){:target="_blank"}, with [Daniele Agostini](https://www.math.uni-tuebingen.de/de/forschung/kombinatorische-algebraische-geometrie/personen/daniele-agostini){:target="_blank"} and [Dawei Shen](https://sites.google.com/umich.edu/daweishen/){:target="_blank"}, Special volume on Positive Geometry. Le Matematiche, vol. 80 (2025), 103-122. [ArXiv](https://arxiv.org/abs/2412.12514).
+* [Points on Rational Normal Curves and the ABCT Variety](https://lematematiche.dmi.unict.it/index.php/lematematiche/article/view/2746){:target="_blank"}, with [Daniele Agostini](https://www.math.uni-tuebingen.de/de/forschung/kombinatorische-algebraische-geometrie/personen/daniele-agostini){:target="_blank"} and [Dawei Shen](https://sites.google.com/umich.edu/daweishen/){:target="_blank"}, Special volume on Positive Geometry. Le Matematiche, vol. 80 (2025), 103-122. [ArXiv](https://arxiv.org/abs/2412.12514){:target="_blank"}.
 
 * [Invariant Theory](https://link.springer.com/chapter/10.1007/978-3-031-62127-7_12){:target="_blank"}, with [Wolfram Decker](https://math.rptu.de/ags/agag/personen/leitung/decker){:target="_blank"} and [Johannes Schmidt](https://joschmitt.eu){:target="_blank"},  In: The Computer Algebra System OSCAR: Algorithms and Examples, 297--331, Springer, January 2025
