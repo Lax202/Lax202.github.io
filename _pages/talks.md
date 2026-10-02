@@ -8,6 +8,11 @@ author_profile: true
 
 {% include base_path %}
 
+Upcoming Activities
+======
+* 16 Oct 2026: [BGTS Doctoral Day 2026](https://www.uni-bielefeld.de/einrichtungen/bgts/events/bgts-doctoral-day/bgts-doctoral-day-2026/){:target="_blank"}, Universität Bielefeld
+* 7-9 Dec 2026: [Women in Algebra and Symbolic Computation IV](https://www.computeralgebra.de/women-in-algebra-and-symbolic-computation-iv/){:target="_blank"}, Bad Dürkheim
+
 Contributed Talks
 ======
 * 10-11 Sept 2026: [Westfälische Stochastic Tage 2026](https://math.uni-paderborn.de/ag/arbeitsgruppe-wahrscheinlichkeitstheorie/forschung/konferenzen/westfaelische-stochastiktage-2026){:target="_blank"}, Universität Paderborn
